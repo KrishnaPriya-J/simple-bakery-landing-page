@@ -3,4 +3,4 @@ A modern Bakery Landing Page designed in Figma using UI/UX principles. The proje
 # figma link
 https://www.figma.com/proto/6RmuilJzOGl4GgFhzEl2GG/Bakery-landing-website?node-id=0-1&t=EzpIkD1lHB2tZcKm-1
 # documentation link
-https://drive.google.com/file/d/1wXicuIGIaaG5AcPbTibCFfOj5eY3kxxr/view?usp=drivesdk
+"C:\Users\KrishnaPriya\Downloads\simple bakery landing page documentation.pdf"
